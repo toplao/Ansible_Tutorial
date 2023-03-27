@@ -1,5 +1,5 @@
 172.31.94.96 #Target_Servers_01
 172.31.87.216 #Target_Servers_02
 172.31.89.236 #Target_Servers_03
-172.31.86.81 #Target_Servers_04
-172.31.81.133 #Target_Servers_05
+#172.31.86.81 #Target_Servers_04
+#172.31.81.133 #Target_Servers_05
